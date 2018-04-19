@@ -1,4 +1,4 @@
-﻿namespace Common.Models
+﻿namespace S2k.Common.Models
 {
 	public class IdNameModel
 	{

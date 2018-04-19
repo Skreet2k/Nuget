@@ -2,6 +2,8 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>S2k.Common</AssemblyName>
+    <RootNamespace>S2k.Common</RootNamespace>
   </PropertyGroup>
 
 </Project>
