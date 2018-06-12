@@ -259,3 +259,6 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+/Skreet2k/Common.Core/nuget.exe
+/Skreet2k/Common.Framework/nuget.exe
+/Skreet2k/Common.Framework/Common.Framework.nuspec

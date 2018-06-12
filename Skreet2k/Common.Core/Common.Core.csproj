@@ -6,4 +6,8 @@
     <RootNamespace>S2k.Common.Core</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Remove="nuget.exe" />
+  </ItemGroup>
+
 </Project>
