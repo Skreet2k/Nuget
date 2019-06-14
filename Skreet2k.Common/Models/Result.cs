@@ -6,6 +6,8 @@
     /// <typeparam name="T">Content type</typeparam>
     public class Result<T> : Result
     {
+        public Result() { }
+
         public Result(T content)
         {
             Content = content;
