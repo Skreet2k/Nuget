@@ -1,9 +1,12 @@
-﻿namespace Skreet2k.Common.Models
+﻿using System;
+
+namespace Skreet2k.Common.Models
 {
     /// <summary>
     /// Result model with content
     /// </summary>
     /// <typeparam name="T">Content type</typeparam>
+    [Serializable]
     public class Result<T> : Result
     {
         public Result() { }
@@ -18,6 +21,7 @@
     /// <summary>
     /// Result model
     /// </summary>
+    [Serializable]
     public class Result
     {
         public Result() { }
