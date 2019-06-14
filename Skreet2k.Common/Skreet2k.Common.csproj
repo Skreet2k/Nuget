@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Copyright>Skreet2k</Copyright>
+    <Description>Helpers which are used in many projects</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageTags>.net</PackageTags>
+    <Authors>Skreet2k</Authors>
+    <Company>Skreet2k</Company>
+    <Product>Skreet2k</Product>
+    <PackageId>S2k.Common</PackageId>
+    <Version>2.0.1</Version>
+    <PackageProjectUrl>https://github.com/Skreet2k/Nuget</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Skreet2k/Nuget</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <AssemblyVersion>2.0.1.0</AssemblyVersion>
+    <FileVersion>2.0.1.0</FileVersion>
+  </PropertyGroup>
+
+</Project>
