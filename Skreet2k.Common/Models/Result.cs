@@ -27,6 +27,8 @@ namespace Skreet2k.Common.Models
         public Result() { }
         public string ErrorMessage { get; set; }
 
+        public int ReturnCode { get; set; }
+
         public bool IsSuccess => ErrorMessage == null;
     }
 }
