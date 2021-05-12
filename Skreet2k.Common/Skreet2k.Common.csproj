@@ -10,12 +10,12 @@
     <Company>Skreet2k</Company>
     <Product>Skreet2k</Product>
     <PackageId>S2k.Common</PackageId>
-    <Version>2.0.5</Version>
+    <Version>2.1.2</Version>
     <PackageProjectUrl>https://github.com/Skreet2k/Nuget</PackageProjectUrl>
     <RepositoryUrl>https://github.com/Skreet2k/Nuget</RepositoryUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <AssemblyVersion>2.0.5.0</AssemblyVersion>
-    <FileVersion>2.0.5.0</FileVersion>
+    <AssemblyVersion>2.1.2.0</AssemblyVersion>
+    <FileVersion>2.1.2.0</FileVersion>
   </PropertyGroup>
 
 </Project>
